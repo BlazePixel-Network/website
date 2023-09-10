@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "http://blazepixel.us.to/"
 baseurl: "/"
-siteIcon: "https://cdn.discordapp.com/icons/1141830157129240576/f044109d8eb54ebf6080f73c7afb7b9c.png?size=256"
+siteIcon: /logo.png
 siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
