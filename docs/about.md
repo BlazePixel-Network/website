@@ -19,12 +19,3 @@ Join hands with fellow players to create something amazing. Our server promotes 
 ## Thriving Community
 
 Become part of a community that values respect and camaraderie. On BlazePixel, you're more than just a player - you're a valued member of a vibrant, welcoming community.
-
-
-
-# Privacy Policy
-
-This website does not collect any data, but third party integrations may collect data to provide a service.
-
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
