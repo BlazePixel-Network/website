@@ -20,9 +20,6 @@ Join hands with fellow players to create something amazing. Our server promotes 
 
 Become part of a community that values respect and camaraderie. On BlazePixel, you're more than just a player - you're a valued member of a vibrant, welcoming community.
 
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy
