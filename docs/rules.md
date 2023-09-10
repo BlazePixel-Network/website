@@ -3,7 +3,7 @@ layout: page
 navname: Rules
 ---
 
-# Rules
+# {{ site.serverName }} Rules
 ## No griefing or stealing from other players.
 ## Respect all members and staff.
 ## No spamming or advertising in the chat.
