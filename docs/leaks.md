@@ -1,11 +1,11 @@
 ---
 layout: page
-navname: Screenshots
+navname: Leaks
 ---
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
 
-# Screenshots
+# Leaks
 
 {% assign imagenum = 0 %}
 
