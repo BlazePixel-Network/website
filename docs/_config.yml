@@ -30,9 +30,9 @@ discordChannelID: 1149031447588507682
 # 
 siteNav:
    - name: Rules
-     url: Rules
+     url: rules
    - name: Leaks
-     url: Leaks
+     url: leaks
      newtab: false
    - name: About
      url: about
