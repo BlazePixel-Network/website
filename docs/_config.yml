@@ -29,11 +29,11 @@ discordChannelID: 1149031447588507682
 # #   newtab - Whether link should open in new tab
 # 
 siteNav:
-   - name: Server Map
-     url: map
-     newtab: true
-   - name: Screenshots
-     url: screenshots
+   - name: Rules
+     url: Rules
+   - name: Leaks
+     url: Leaks
+     newtab: false
    - name: About
      url: about
 
