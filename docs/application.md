@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: About
+navname: Application
 ---
 
 # {{ site.serverName }}
