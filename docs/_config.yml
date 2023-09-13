@@ -36,6 +36,8 @@ siteNav:
      newtab: false
    - name: About
      url: about
+   - name: Application
+     url: application
 
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
