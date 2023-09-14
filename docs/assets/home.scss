@@ -1,29 +1,24 @@
 ---
 ---
-.layoutpage {
+#layoutpage .layoutpage {
     color: var(--text-color);
     width: 95%;
     max-width: 950px;
     font-size: 1.1rem;
 }
 
-// Fixes for the header and footer
-
-#serverStatus p {
-    padding: 0;
-}
 
 // Page stylings
 
-h1,h2,h3 {
+#layoutpage h1,h2,h3 {
     padding-bottom: 1rem;
 }
 
-p {
+#layoutpage p {
     padding-bottom: 1rem;
 }
 
-a {
+#layoutpage a {
     color: var(--text-light);
     
     &:hover {
@@ -31,48 +26,48 @@ a {
     }
 }
 
-h1 {
+#layoutpage h1 {
     font-size: 2.5rem;
     line-height: 3.5rem;
     padding-top: 2.5rem;
     font-weight: bold;
 }
 
-h2 {
+#layoutpage h2 {
     font-size: 2rem;
     padding-top: 1.5rem;
     font-weight: bold;
 }
 
-h3 {
+#layoutpage h3 {
     font-size: 1.65rem;
     padding-top: 1.5rem;
     font-weight: bold;
 }
 
-h4 {
+#layoutpage h4 {
     font-size: 1.5rem;
     padding-top: 1.5rem;
 }
 
-ul {
+#layoutpage ul {
     list-style-type: disc;
 }
 
-ol {
+#layoutpage ol {
     list-style-type: decimal;
 }
 
-ol, ul {
+#layoutpage ol, ul {
     margin: 0;
     padding: 1rem 2.5rem;
     list-style-position: outside;
 
-    li {
+    #layoutpage li {
         padding-bottom: 0.5rem;
     }
 
-    ol, ul {
+    #layoutpage ol, ul {
         padding-top: 0.5rem;
         padding-bottom: 0px;
         padding-left: 2.5rem;
@@ -80,7 +75,7 @@ ol, ul {
     }
 }
 
-code { /* overridden by pre code */
+#layoutpage code { /* overridden by pre code */
     margin-left: 0.25rem;
     margin-right: 0.25rem;
     padding-left: 0.5rem;
@@ -92,11 +87,11 @@ code { /* overridden by pre code */
     border-radius: 0.25rem;
 }
 
-img {
+#layoutpage img {
     border-radius: var(--text-rounded);
 }
 
-pre {
+#layoutpage pre {
     width: 100%;
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -107,7 +102,7 @@ pre {
     margin-bottom: var(--text-mb);
     overflow-x: auto;
 
-    code {
+    #layoutpage code {
         margin: 0rem;
         padding: 0rem;
         background-color: transparent;
