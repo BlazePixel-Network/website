@@ -4,9 +4,9 @@ navname: About
 ---
 
 # {{ site.serverName }}
-## Join the BlazePixel Adventure!
+## Join the Eclipse Pixel Adventure!
 
-Experience the magic of BlazePixel, a community-driven Minecraft server that brings your favorite aspects of gaming to life. From epic battles to creative wonders, BlazePixel offers something for every player.
+Experience the magic of Eclipse Pixel, a community-driven Minecraft server that brings your favorite aspects of gaming to life. From epic battles to creative wonders, Eclipse Pixel offers something for every player.
 
 ## Innovative Minigames
 
@@ -18,4 +18,4 @@ Join hands with fellow players to create something amazing. Our server promotes 
 
 ## Thriving Community
 
-Become part of a community that values respect and camaraderie. On BlazePixel, you're more than just a player - you're a valued member of a vibrant, welcoming community.
+Become part of a community that values respect and camaraderie. On Eclipse Pixel, you're more than just a player - you're a valued member of a vibrant, welcoming community.
