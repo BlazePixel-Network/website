@@ -1,7 +1,7 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "http://blazepixel.us.to/"
+url: "/"
 baseurl: "/"
 siteIcon: /logo.png
 siteYear: 2023
@@ -11,8 +11,8 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: BlazePixel
-serverDescription: Join the BlazePixel Adventure!
+serverName: Eclipse Pixel
+serverDescription: Join the Eclipse Pixel Adventure!
 serverIP: Coming Soon!
 useBedrockForOnlineStatus: false
 
