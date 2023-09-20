@@ -4,7 +4,7 @@ navname: Application
 ---
 
 # {{ site.serverName }}
-## Join the BlazePixel Staff Team!
+## Join the Eclipse Pixel Staff Team!
 
 Fill in the application below to try your luck in getting into our top-secret staff team!
 <style>
